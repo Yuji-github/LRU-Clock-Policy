@@ -1,0 +1,20 @@
+
+                                
+//                                if(currentUnit == unit && myProcess[index].get(head).isInMain()) //special dispatch
+//                                {
+//                                    readyQ.add(myProcess[index].get(head));
+//                                    myProcess[index].remove(head);
+//
+//                                    if(!pFrame[index].isEmpty())
+//                                    {
+//                                        for (int j = 0; j < pFrame[index].size(); j++)
+//                                        {
+//                                            if (pFrame[index].get(j).getPage() == myProcess[index].get(head).getPage())
+//                                            {
+//                                                myProcess[index].get(head).setInMain(true); //no more penalty
+//                                            }
+//                                        }
+//                                    }
+//
+//                                    totalpage--;
+//                                }
